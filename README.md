@@ -1,8 +1,6 @@
 ## How to run with Docker
 
 ```bash
-cd itkmitl-bookinfo-details/src
-
 # Build Docker Image for details service
 docker build -t image .
 
