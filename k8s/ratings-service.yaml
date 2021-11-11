@@ -6,6 +6,6 @@ metadata:
 spec:
   type: ClusterIP
   ports:
-  - port: 8080
+  - port: 8081
   selector:
     app: bookinfo-dev-details
