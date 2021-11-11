@@ -11,7 +11,7 @@ spec:
   - host: itkmitl.bookinfo.dev.opsta.net
     http:
       paths:
-      - path: /student355/details(/|$)(.*)
+      - path: /student35/details(/|$)(.*)
         pathType: Prefix
         backend:
           service:
